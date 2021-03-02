@@ -14,3 +14,11 @@ This is a demo app for [Kotlin Coroutines Instrumentation](https://github.com/ne
 7. In a new terminal window, run some tests against the app `./test.sh` - you might need to make this executable first by running `chmod +x test.sh`
 8. Open New Relic and take a look at the demo app reporting transactions and breakdowns.
 
+## Example Results
+
+Transactions list
+![Transactions List](https://raw.githubusercontent.com/danifitz/kotlin-coroutines-demo/imgs/coroutine-transactions.png "Transactions List")
+
+![Transaction Trace](https://raw.githubusercontent.com/danifitz/kotlin-coroutines-demo/imgs/coroutine-transactions-trace.png "Transactions Trace")
+
+![Segment Breakdown](https://raw.githubusercontent.com/danifitz/kotlin-coroutines-demo/imgs/coroutine-segment-breakdown.png "Segment Breakdown")
