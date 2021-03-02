@@ -17,8 +17,8 @@ This is a demo app for [Kotlin Coroutines Instrumentation](https://github.com/ne
 ## Example Results
 
 Transactions list
-![Transactions List](https://raw.githubusercontent.com/danifitz/kotlin-coroutines-demo/imgs/coroutine-transactions.png "Transactions List")
+![Transactions List](https://github.com/danifitz/kotlin-coroutines-demo/raw/main/imgs/coroutine-transactions.png "Transactions List")
 
-![Transaction Trace](https://raw.githubusercontent.com/danifitz/kotlin-coroutines-demo/imgs/coroutine-transactions-trace.png "Transactions Trace")
+![Transaction Trace](https://github.com/danifitz/kotlin-coroutines-demo/raw/main/imgs/coroutine-transaction-trace.png "Transactions Trace")
 
-![Segment Breakdown](https://raw.githubusercontent.com/danifitz/kotlin-coroutines-demo/imgs/coroutine-segment-breakdown.png "Segment Breakdown")
+![Segment Breakdown](https://github.com/danifitz/kotlin-coroutines-demo/raw/main/imgs/coroutine-segment-breakdown.png "Segment Breakdown")
